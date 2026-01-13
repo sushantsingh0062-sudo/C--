@@ -2,7 +2,7 @@
 using namespace std;
 int main () { 
     int a, b, sum;
-    cout <<"Enter two numbers: ";
+    cout <<"Enter first numbers: ";
     cin >> a;
     
     cout << "Please enter second number: ";
