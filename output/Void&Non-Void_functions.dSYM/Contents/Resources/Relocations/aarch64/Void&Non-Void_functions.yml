@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sushantsingh/C++/output/Void&Non-Void_functions'
+relocations:     []
+...
